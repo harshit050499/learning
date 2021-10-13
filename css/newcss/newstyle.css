@@ -1,0 +1,120 @@
+.contain
+{
+	width: 100%;
+	float: left;
+	    padding: 3px 0px;
+}
+section
+{
+	width: 100%;
+	float:left;
+}
+#first
+{
+	background: #2e2d2d;
+    color: white;
+
+}
+.left-side
+{
+	width:100%;
+	float: left;
+}
+.left-side ul
+{
+	list-style: none;
+	display: inline-block;
+
+}
+.left-side li
+{
+	display: inline-block;
+	padding: 0px 7px;
+}
+.logo
+{
+	padding: 10px 0px;
+}
+.nav
+{
+	padding-top:25px;
+	padding-bottom:10px; 
+	text-align: center;
+}
+.nav ul
+{
+	list-style: none;
+	display: inline-block;
+}
+.nav li
+{
+	display: inline-block;
+	padding: 0px 15px;
+	font-weight: bolder;
+}
+.search
+{
+padding-top:10px;
+	padding-bottom:10px; 	
+}
+.search button
+{
+	    background: green;
+    border: 1px solid green;
+    padding: 20px 20px;
+    color: white;
+    border-radius: 50px;
+    width: 120px;
+}
+.back
+{
+	background:url('../../img/background.webp');
+	width: 100%;
+	min-height: 70vh;
+}
+
+.paddoff
+{
+	padding: 0 !important;
+}
+.alltext
+{
+	margin: 130px 0px;
+}
+.button button
+{
+	background: transparent;
+    border: 1px solid black;
+    padding: 12px 15px;
+    border-radius: 40px;
+
+}
+.box
+{
+	 box-shadow:1px 6px 6px 3px #c7c4c4;
+    text-align: center;
+    width: 100%;
+    background: white;
+    float: left;
+}
+.contain-det
+{
+	width: 100%;
+    float: left;
+    margin: 40px 0px;
+}
+#third
+{
+	z-index: 0;
+	
+}
+#fourth
+{
+	background:#eee;
+
+}
+.upper
+{
+	z-index: 1;
+	margin-top: -82px;
+}
